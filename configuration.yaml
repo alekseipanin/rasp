@@ -24,4 +24,3 @@ yeelight: !include includes/yeelight.yaml
 #Вынос во внешние папки
 sensor: !include_dir_merge_list includes/sensor
 
-
